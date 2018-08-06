@@ -1,0 +1,10 @@
+#+TITLE: re-frame-and-jekyll
+
+A simple [[https://github.com/Day8/re-frame][re-frame]] static, single-page application. It is a simple
+proof of concept to show how to use re-frame to use reagent components
+in markdown files served by Jekyll, the static website engine used by
+GitHub pages.
+
+=resources/public/index.html= isn't used by Jekyll, only for
+standalone figwheel local development so you don't have to mess with
+figwheel + jekyll.
