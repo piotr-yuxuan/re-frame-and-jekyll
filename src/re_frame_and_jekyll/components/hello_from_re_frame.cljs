@@ -2,4 +2,4 @@
 
 (defn hello-from-re-frame
   []
-  [:p "Hello from re-frame! This comes from a ClojureScript file evaluated at runtime."])
+  "Hello from re-frame! This comes from a ClojureScript file evaluated at runtime.")
